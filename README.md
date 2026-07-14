@@ -12,6 +12,7 @@ The analysis was conducted using SQL in Google BigQuery, with a focus on transac
 
 - **Source:** Kaggle
 - **Dataset:** Digital Wallet Transactions
+- **Dataset Link:** https://www.kaggle.com/datasets/harunrai/digital-wallet-transactions/
 - **Records:** 5,000 transactions
 - **Time Period:** 19 Aug 2023 – 18 Aug 2024
 - **Features:** 16 columns including transaction amount, fee, cashback, payment method, device type, merchant, and transaction status.
